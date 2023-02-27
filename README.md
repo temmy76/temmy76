@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @temmy76
 - 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Vue, GO
+- 🌱 I’m currently learning Microservice with Java 
 
 <!---
 temmy76/temmy76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
