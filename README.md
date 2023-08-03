@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @temmy76
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Microservice with Java 
-
-<!---
-temmy76/temmy76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![readmebox](https://github.com/temmy76/temmy76/assets/75491363/a3a9ed9a-1ab7-41ea-8296-9d41557f2bce)
